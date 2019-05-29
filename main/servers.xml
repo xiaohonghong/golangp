@@ -1,0 +1,14 @@
+<servers Version="1.0.0">
+<server method="services">
+    <serverName>Shanghai_VPN</serverName>
+    <serverIP>127.0.0.1</serverIP>
+    <serverOpen>
+        <ui>123</ui>
+        <ul>223</ul>
+    </serverOpen>
+</server>
+<server>
+<serverName>Beijing_VPN</serverName>
+<serverIP>127.0.0.2</serverIP>
+</server>
+</servers>
